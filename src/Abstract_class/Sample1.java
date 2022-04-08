@@ -21,6 +21,7 @@ public abstract void test3();
 public static void test4()
 {
 	System.out.println("this is static method with body");
-	}
+System.out.println("hey there git");	
+}
 }
 //when there is abstract in a class we cannot create object
