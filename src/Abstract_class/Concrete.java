@@ -20,5 +20,6 @@ public void test5()
 @Override
 public void test3() {
 System.out.println("test3 method is completed in concrete class");	
+System.out.println("hi fi git");
 }
 }
